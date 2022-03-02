@@ -1,1 +1,2 @@
-https://github.com/ElyManzon/Maps.git
+
+https://elymanzon.github.io/Maps/
